@@ -1,4 +1,5 @@
 # get_oa_ros
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SND Method Implementation:
 Paper : Durham, Joseph W., and Francesco Bullo. "Smooth nearness-diagram navigation." 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems. IEEE, 2008.
